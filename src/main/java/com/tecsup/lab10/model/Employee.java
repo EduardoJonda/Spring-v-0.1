@@ -8,7 +8,7 @@ public class Employee {
 	String firstname;
 	String lastname;
 	int salary;
-	
+	//creando lol
 	/**
 	 * 
 	 * @param login
